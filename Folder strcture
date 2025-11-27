@@ -1,0 +1,28 @@
+christian-sermon-library/
+│
+├── public/
+│   ├── index.php
+│   ├── login.php
+│   ├── register.php
+│   ├── logout.php
+│   ├── sermon.php
+│   ├── bookmark.php
+│   ├── search.php
+│   ├── style.css
+│   └── script.js
+│
+├── src/
+│   ├── db.php
+│   └── functions.php
+│
+├── admin/
+│   └── upload-sermon.php
+│
+├── config/
+│   └── config.php
+│
+├── database/
+│   └── database.sql
+│
+├── .gitignore
+└── README.md
