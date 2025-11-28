@@ -37,7 +37,7 @@ CREATE TABLE bookmarks (
 );
 
 INSERT INTO users (name, email, password) VALUES
-('Test User', 'test@example.com', '$2y$10$QmVdV1C7IGqN9dW9I5tz1e9O5.1pLX/xmOZbDxYOfpEiyrJSpO1fu'); 
+('Test User', 'test@example.com', '$2y$10$Ap2l0dx0uSuaoyWSQn2ToOkyp6UpH9x0LulzjhQYU7lnsrQ/szDXC'); 
 
 -- Sample Sermon
 INSERT INTO sermons (title, scripture, teacher, topic, video_url, pdf_url, notes)
@@ -50,4 +50,5 @@ VALUES (
     'https://example.com/sermon.pdf',
     'Be holy for YHVH is holy.'
 );
+
 
