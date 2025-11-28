@@ -14,3 +14,11 @@ A searchable, bookmarkable sermon and Bible teaching library.
 - Video link
 - Notes
 - User Login/Register
+
+## Sample User
+- email: test@example.com
+- password: 123456
+
+## Sample Link
+https://software.theholywrit.com/christian-sermon-library
+
